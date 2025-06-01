@@ -1,0 +1,1 @@
+zmieniony model przypadkow uzycia, daodane opisy aktorow i use casów, poprawione przypadki uzycia w dokumencie, dodana nowa klasa produktu w diagramie klas
